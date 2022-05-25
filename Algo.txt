@@ -1,0 +1,5 @@
+1. Decide which business to order from
+2. Decide which type of pizza to order
+3. Decide how to pay
+4. Decide to pick up or have it delivered
+5. Wait for pizza to arrive or wait to pick it up
